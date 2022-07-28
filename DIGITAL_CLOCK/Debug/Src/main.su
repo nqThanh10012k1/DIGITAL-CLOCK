@@ -1,0 +1,15 @@
+../Src/main.c:78:5:main	8	static
+../Src/main.c:102:6:I2C1_Init	32	static
+../Src/main.c:128:6:I2Cx_SendData	16	static
+../Src/main.c:144:9:I2Cx_ReceiveData	24	static
+../Src/main.c:177:7:DS3231_ReadRealTime	16	static
+../Src/main.c:192:6:DS3231_SetAlarmTime	16	static
+../Src/main.c:199:14:DS3231_GetClockStatus	24	static
+../Src/main.c:219:6:SPI2_MasterInit	40	static
+../Src/main.c:259:6:SPI_Send_Data	16	static
+../Src/main.c:267:6:MAX7219_Init	8	static
+../Src/main.c:279:6:MAX7219_DisplayTime	24	static
+../Src/main.c:400:6:BUTTON_Init	32	static
+../Src/main.c:434:6:EXTI9_5_IRQHandler	16	static
+../Src/main.c:484:6:EXTI15_10_IRQHandler	16	static
+../Src/main.c:546:6:delay_ms	24	static
